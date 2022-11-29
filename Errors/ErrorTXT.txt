@@ -1,0 +1,1 @@
+unable to prepare context: unable to evaluate symlinks in Dockerfile path: lstat /builds/my-first-gitlab-project2/hello-world/Dockerfile: no such file or directory
